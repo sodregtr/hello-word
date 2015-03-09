@@ -1,2 +1,4 @@
 # hello-word
-Testando
+This is my first time in github.com.
+
+I'm testing it.
